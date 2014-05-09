@@ -1,1 +1,29 @@
+p {
+	font-size: 1.25em;
+	font-family: sans-serif;
+	color: black;
+	margin: 0 12em;
+	line-height: 1.5em;
+
+}
+
+
+.footer {
+	font-size: .8em;
+	font-family: sans-serif;
+	color: black;
+	text-align: center;
+	line-height: 3em;
+}
+
+.container {
+	margin: 0 auto;
+	width: 79%;
+	text-align: center;
+}
+
+img {
+	margin: 2em 3.5em;
+}
+
 
